@@ -2,6 +2,32 @@
 int main()
 {
     char a[100], b[100], c[100], d[100];
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
+    printf("\n");
     printf("\nai : Make a wish");
     printf("\npr : ");
     scanf("%s", &a);
@@ -23,7 +49,7 @@ int main()
                 printf("\nai : Deleting Memories...");
                 printf("\n     Error!! File Too Big. Deletion terminated.");
                 printf("\n     The only remaining option now is to accept reality.");
-                printf("\nprx : ");
+                printf("\npr : ");
                 scanf("%s", &d);
                 if(d[100] = "Okay");
                 {
